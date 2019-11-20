@@ -60,6 +60,7 @@ export const SelectListHeaderInput = styled.TextInput`
   flex: 1;
   height: 100%;
   padding-left: 8;
+  margin-top: 5;
   font-size: ${SELECT_LIST_HEADER_INPUT_FONT_SIZE};
 `;
 
